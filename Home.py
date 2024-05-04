@@ -2,7 +2,7 @@ import streamlit as st
 import streamlit.components.v1 as components
 
 st.set_page_config( 
-     page_title="EmissioNavi", 
+     page_title="EcoTracker", 
      page_icon="💚", 
      layout="wide", 
      initial_sidebar_state="expanded", 
@@ -27,7 +27,7 @@ def gradient_text(text, color1, color2):
 
 color1 = "#0d3270"
 color2 = "#0fab7b"
-text = "EmissioNavi"
+text = "EcoTracker"
   
 left_co, cent_co,last_co = st.columns(3)
 with cent_co:
@@ -37,7 +37,7 @@ styled_text = gradient_text(text, color1, color2)
 st.write(f"<div style='text-align: center;'>{styled_text}</div>", unsafe_allow_html=True)
   
 st.markdown(""" 
- #### Welcome to EmissioNavi - Where Transportation Meets Environmental Responsibility
+ #### Welcome to EcoTracker - Where Transportation Meets Environmental Responsibility
 
 1. **Commute Insight**: Calculate and reduce your carbon footprint for your daily commute using simple machine learning algorithms.
               
