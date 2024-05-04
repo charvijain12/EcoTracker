@@ -1,6 +1,6 @@
-# EmissioNavi 🌍
+# EcoTracker 🌍
 
-EmissioNavi is a project aimed at tracking and analyzing emissions data for environmental monitoring and management.
+EcoTracker is a project aimed at tracking and analyzing emissions data for environmental monitoring and management.
 
 ## Features 🚀
 
@@ -11,16 +11,16 @@ EmissioNavi is a project aimed at tracking and analyzing emissions data for envi
 
 ## Installation 💻
 
-To run EmissioNavi locally, follow these steps:
+To run EcoTracker locally, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/charvijain12/EmissioNavi.git
+   git clone https://github.com/charvijain12/EcoTracker.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd EmissioNavi
+   cd EcoTracker
    ```
 
 3. Install dependencies:
